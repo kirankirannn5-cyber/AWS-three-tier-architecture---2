@@ -1,6 +1,6 @@
 # Three-Tier Architecture Project Steps
 
-![Architecture Diagram](Architecture.png)
+![Architecture Diagram](.png)
 
 ## 1. Create a VPC
 

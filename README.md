@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="3 tire Architecture" src="https://github.com/user-attachments/assets/dcc6da1f-bae4-4b43-876a-de87974c7df8" />
 # Three-Tier Architecture Project Steps
 
 ![Architecture Diagram](.png)
